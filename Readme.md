@@ -1,6 +1,7 @@
 # Blog Hive
 
 Welcome to Blog Hive! Blog Hive is a platform for discovering insightful, engaging, and diverse blog posts from writers around the globe.
+### NOTE: Seperate Branches for Backend and Frontend
 
 
 ## Table of Contents
